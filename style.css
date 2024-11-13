@@ -9,9 +9,30 @@
 /* TYPO */
 header{
     font-family: "Nerko One", cursive;
+    background-color: white;
+    color: #FF9614;
+    font-size: 35px;
+    text-align: center;
+    padding: 18px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 10;
 }
-
 body{
     font-family: "Montserrat", sans-serif;
+    background-color: #F6F5F3;
 }
 /* TYPO */
+
+/* RESPONSIVE */
+
+@media screen and (min-width: 768px) {
+    header{
+        text-align: left;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    
+}
