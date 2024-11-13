@@ -1,0 +1,17 @@
+/* RESET */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* RESET */
+
+/* TYPO */
+header{
+    font-family: "Nerko One", cursive;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+/* TYPO */
